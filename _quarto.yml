@@ -11,8 +11,6 @@ website:
       - href: resume.qmd
         text: Resume
       - href: blog.qmd
-        text: Blog
-      - href: resume.qmd
         text: Projects
 
 format:
