@@ -1,0 +1,15 @@
+---
+title: "1v0site"
+image: "profile.png"
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      href: "mailto:xikuang@ucsd.edu"
+    - icon: linkedin
+      href: https://www.linkedin.com/in/xingyu-kuang
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
